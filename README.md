@@ -22,11 +22,11 @@ Para tranquilizar as mães e garantir um banho seguro para os bebês, desenvolve
 
 Este projeto visa proporcionar tranquilidade às mães, tornando o momento do banho mais seguro e agradável para o bebê. Sua simplicidade de uso e eficácia fazem dele uma solução indispensável para os cuidados diários com o recém-nascido.
 
-##Plataforma ultilizada:https://wokwi.com/
+## Plataforma ultilizada:https://wokwi.com/
 
-##Dispositivo ultilizado: ESP32, DHT22(sensor)
+## Dispositivo ultilizado: ESP32, DHT22(sensor)
 
-#Mapa de conexão 
+# Mapa de conexão 
 
 ![image](https://github.com/marcelitos1v9/BabyBathGuard/assets/123131698/ce4ec1e7-a5c3-40cb-9cdc-a4c075d5c06b)
 
