@@ -1,8 +1,6 @@
 # BabyBathGuard
 
-# Sistema IoT para Banho de Bebê
-
-##Projeto desenvolvido no curso IOT energizada do instituto FIT
+## Projeto desenvolvido no curso IOT energizada do instituto FIT
 
 ## Problema
 Uma mãe de primeira viagem muitas vezes se sente insegura ao dar banho no seu bebê. A preocupação com a temperatura da água é uma constante, evitando que ela esteja muito quente e cause danos à pele delicada do bebê ou muito fria, o que poderia levar a problemas de saúde.
